@@ -28,3 +28,42 @@
 - システムのメッセージをカウントに含めるか否か
 - カウントのリセット
 - 過去のデータを表示
+
+## きるら (KiRura) ってだーれだ
+
+- JavaScriptしか扱えない
+  - クラスなんて知らない
+- YMM4で動画と画像を作る
+- ゲームはVALORANT, OW, Minecraftなど
+
+### MAIN PC SPECS
+
+- XA7C-R47T
+- i7 13700F
+- ASRock B760 TW/D4
+- Samsung DDR4-3200 16GBx2
+- Palit RTX4070Ti
+- Storage
+  - Intel 670P 1TB 
+  - Samsung 970 Evo 500GB
+- Intel WiFi Card, ASUS WiFi Antenna
+- OS
+  - Windows 11 Home
+  - Arch Linux, GNOME
+
+### Gears
+
+- CoolerMaster MM712
+- DAISO Keyboard USB
+- simgot EA500
+- Acer IPS 165Hz
+- DAISO Tablemat
+
+### Others
+
+- Pixel 6a
+  - 5aが初期不良で突然死・交換
+- iPhone 6
+  - 過放電で起動しない
+- iPhone 4 x2
+  - 好調
