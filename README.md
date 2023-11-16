@@ -22,7 +22,7 @@
 - タイムアウトされた・解除されたメンバーを通知
 - タイムアウトされていたメンバーが退出した時に通知
 - タイムアウトされていたメンバーが退出した時にBAN
-### [message-counter](https://github.com/KiRura/timeout-manager)
+### [message-counter](https://github.com/KiRura/message-counter)
 - テキストチャンネル、スレッドへの定期送信
 - BOTのメッセージをカウントに含めるか否か
 - システムのメッセージをカウントに含めるか否か
