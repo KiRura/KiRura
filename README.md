@@ -18,7 +18,8 @@
 - 全てのボイスチャンネルのビットレートを変更
 - アクティビティの招待URLを生成
 - 今日・今月・今年の進行度を計算
-### [TwitterEmbedGenerater](https://github.com/KiRura/TwitterEmbedGenerator)
+### [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
+
 ### [timeout-manager](https://github.com/KiRura/timeout-manager)
 - タイムアウトされた・解除されたメンバーを通知
 - タイムアウトされていたメンバーが退出した時に通知
