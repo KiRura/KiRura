@@ -19,7 +19,11 @@
 - アクティビティの招待URLを生成
 - 今日・今月・今年の進行度を計算
 ### [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
-
+- twitter.comもしくはx.comとstatusが含まれていた時に反応
+  - 複数枚の画像に対応
+  - 複数のURLに対応
+  - 一応動画の再生も可能
+- /delete で埋め込みの削除
 ### [timeout-manager](https://github.com/KiRura/timeout-manager)
 - タイムアウトされた・解除されたメンバーを通知
 - タイムアウトされていたメンバーが退出した時に通知
