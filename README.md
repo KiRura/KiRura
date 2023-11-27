@@ -1,6 +1,6 @@
-## DiscordのBOT一覧
+# DiscordのBOT一覧
 
-### [MuTao](https://github.com/KiRura/MuTao)
+## [MuTao](https://github.com/KiRura/MuTao)
 - 音楽プレイヤー
 - ロールの一括付与・剥奪
 - ユーザーのアイコン・バナー (画像or色コード) の取得
@@ -16,31 +16,31 @@
 - 全てのボイスチャンネルのビットレートを変更
 - アクティビティの招待URLを生成
 - 今日・今月・今年の進行度を計算
-### [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
+## [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
 - twitter.comもしくはx.comとstatusが含まれていた時に反応
   - 複数枚の画像に対応
   - 複数のURLに対応
   - 一応動画の再生も可能
 - /delete で埋め込みの削除
-### [timeout-manager](https://github.com/KiRura/timeout-manager)
+## [Timeout-Manager](https://github.com/KiRura/Timeout-Manager)
 - タイムアウトされた・解除されたメンバーを通知
 - タイムアウトされていたメンバーが退出した時に通知
 - タイムアウトされていたメンバーが退出した時にBAN
-### [message-counter](https://github.com/KiRura/message-counter)
+## [Message-Counter](https://github.com/KiRura/Message-Counter)
 - テキストチャンネル、スレッドへの定期送信
 - BOTのメッセージをカウントに含めるか否か
 - システムのメッセージをカウントに含めるか否か
 - カウントのリセット
 - 過去のデータを表示
 
-## きるら (KiRura) ってだーれだ
+# きるら (KiRura) ってだーれだ
 
 - JavaScriptしか扱えない
   - クラスなんて知らない
 - YMM4で動画と画像を作る
 - ゲームはVALORANT, OW, Minecraftなど
 
-### MAIN PC SPECS
+## MAIN PC SPECS
 
 - XA7C-R47T
 - i7 13700F
@@ -55,7 +55,7 @@
   - Windows 11 Home
   - Arch Linux, GNOME
 
-### Gears
+## Gears
 
 - CoolerMaster MM712
 - DAISO Keyboard USB
@@ -63,7 +63,7 @@
 - Acer IPS 165Hz
 - DAISO Tablemat
 
-### Others
+## Others
 
 - Pixel 6a
   - 5aが初期不良で突然死・交換
