@@ -1,6 +1,6 @@
 # DiscordのBOT一覧
-
-## [MuTao](https://github.com/KiRura/MuTao)
+## 運営中
+### [MuTao](https://github.com/KiRura/MuTao)
 - 音楽プレイヤー
 - ロールの一括付与・剥奪
 - ユーザーのアイコン・バナー (画像or色コード) の取得
@@ -16,22 +16,25 @@
 - 全てのボイスチャンネルのビットレートを変更
 - アクティビティの招待URLを生成
 - 今日・今月・今年の進行度を計算
-## [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
+### [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
 - twitter.comもしくはx.comとstatusが含まれていた時に反応
   - 複数枚の画像に対応
   - 複数のURLに対応
   - 一応動画の再生も可能
 - /delete で埋め込みの削除
-## [Timeout-Manager](https://github.com/KiRura/Timeout-Manager)
+### [Timeout-Manager](https://github.com/KiRura/Timeout-Manager)
 - タイムアウトされた・解除されたメンバーを通知
 - タイムアウトされていたメンバーが退出した時に通知
 - タイムアウトされていたメンバーが退出した時にBAN
-## [Message-Counter](https://github.com/KiRura/Message-Counter)
+### [Message-Counter](https://github.com/KiRura/Message-Counter)
 - テキストチャンネル、スレッドへの定期送信
 - BOTのメッセージをカウントに含めるか否か
 - システムのメッセージをカウントに含めるか否か
 - カウントのリセット
 - 過去のデータを表示
+## 開発中 or 放置中
+### [MuPlayer](https://github.com/KiRura/MuPlayer)
+### [Anka](https://github.com/KiRura/Anka)
 
 # きるら (KiRura) ってだーれだ
 
