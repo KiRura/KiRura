@@ -35,6 +35,8 @@
 ## 開発中 or 放置中
 ### [MuPlayer](https://github.com/KiRura/MuPlayer)
 ### [Anka](https://github.com/KiRura/Anka)
+### [MuRole](https://github.com/KiRura/MuRole)
+### [okozukai](https://github.com/KiRura/okozukai)
 
 # きるら (KiRura) ってだーれだ
 
