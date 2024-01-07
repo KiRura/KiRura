@@ -24,8 +24,8 @@
 - /delete で埋め込みの削除
 ### [Timeout-Manager](https://github.com/KiRura/Timeout-Manager)
 - タイムアウトされた・解除されたメンバーを通知
-- タイムアウトされていたメンバーが退出した時に通知
-- タイムアウトされていたメンバーが退出した時にBAN
+- タイムアウトされているメンバーが退出した時に通知
+- タイムアウトされているメンバーが退出した時にBAN
 ### [Message-Counter](https://github.com/KiRura/Message-Counter)
 - テキストチャンネル、スレッドへの定期送信
 - BOTのメッセージをカウントに含めるか否か
