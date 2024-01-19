@@ -16,12 +16,6 @@
 - 全てのボイスチャンネルのビットレートを変更
 - アクティビティの招待URLを生成
 - 今日・今月・今年の進行度を計算
-### [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
-- twitter.comもしくはx.comとstatusが含まれていた時に反応
-  - 複数枚の画像に対応
-  - 複数のURLに対応
-  - 一応動画の再生も可能
-- /delete で埋め込みの削除
 ### [Timeout-Manager](https://github.com/KiRura/Timeout-Manager)
 - タイムアウトされた・解除されたメンバーを通知
 - タイムアウトされているメンバーが退出した時に通知
@@ -34,6 +28,12 @@
 - 過去のデータを表示
 ## 開発中 or 放置中
 ### [MuPlayer](https://github.com/KiRura/MuPlayer)
+### [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
+- twitter.comもしくはx.comとstatusが含まれていた時に反応
+  - 複数枚の画像に対応
+  - 複数のURLに対応
+  - 一応動画の再生も可能
+- /delete で埋め込みの削除
 ### [Anka](https://github.com/KiRura/Anka)
 ### [MuRole](https://github.com/KiRura/MuRole)
 ### [okozukai](https://github.com/KiRura/okozukai)
