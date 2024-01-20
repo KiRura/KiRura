@@ -20,6 +20,12 @@
 - タイムアウトされた・解除されたメンバーを通知
 - タイムアウトされているメンバーが退出した時に通知
 - タイムアウトされているメンバーが退出した時にBAN
+### [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
+- `t!ttps://twitter.com`、`t!ttps://x.com`に反応
+  - 複数枚の画像に対応
+  - 複数のURLに対応
+  - 一応動画の再生も可能
+- `/delete` で埋め込みの削除
 ### [Message-Counter](https://github.com/KiRura/Message-Counter)
 - テキストチャンネル、スレッドへの定期送信
 - BOTのメッセージをカウントに含めるか否か
@@ -28,12 +34,6 @@
 - 過去のデータを表示
 ## 開発中 or 放置中
 ### [MuPlayer](https://github.com/KiRura/MuPlayer)
-### [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
-- twitter.comもしくはx.comとstatusが含まれていた時に反応
-  - 複数枚の画像に対応
-  - 複数のURLに対応
-  - 一応動画の再生も可能
-- /delete で埋め込みの削除
 ### [Anka](https://github.com/KiRura/Anka)
 ### [MuRole](https://github.com/KiRura/MuRole)
 ### [okozukai](https://github.com/KiRura/okozukai)
