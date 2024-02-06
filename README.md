@@ -22,6 +22,7 @@
 - タイムアウトされた・解除されたメンバーを通知
 - タイムアウトされているメンバーが退出した時に通知
 - タイムアウトされているメンバーが退出した時にBAN
+- タイムアウトされているメンバーに指定のロールを付与
 ### [TwitterEmbedGenerator](https://github.com/KiRura/TwitterEmbedGenerator)
 - `t!ttps://twitter.com`、`t!ttps://x.com`に反応
   - 複数枚の画像に対応
