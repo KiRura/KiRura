@@ -16,6 +16,8 @@
 - 全てのボイスチャンネルのビットレートを変更
 - アクティビティの招待URLを生成
 - 今日・今月・今年の進行度を計算
+### [MuPlayer](https://github.com/KiRura/MuPlayer)
+- 音楽プレイヤー MuTaoからの移植
 ### [Timeout-Manager](https://github.com/KiRura/Timeout-Manager)
 - タイムアウトされた・解除されたメンバーを通知
 - タイムアウトされているメンバーが退出した時に通知
@@ -33,7 +35,6 @@
 - カウントのリセット
 - 過去のデータを表示
 ## 開発中 or 放置中
-### [MuPlayer](https://github.com/KiRura/MuPlayer)
 ### [Anka](https://github.com/KiRura/Anka)
 ### [MuRole](https://github.com/KiRura/MuRole)
 ### [okozukai](https://github.com/KiRura/okozukai)
