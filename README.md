@@ -22,9 +22,9 @@
 - _[Message-Counter](https://github.com/KiRura/Message-Counter)_  
   UTC+9 日本時間 0 時にメッセージのカウント数を定期送信
 
-<img src="./media/sparkle_banner.png" width=300 align="right" />
-
 ### 開発中 or 放置中
+
+<img src="./media/sparkle_banner.png" width=300 align="right" />
 
 - _[Anka](https://github.com/KiRura/Anka)_  
   安価
