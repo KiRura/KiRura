@@ -17,6 +17,9 @@
 
 ### 稼働中
 
+- _[MuTao](https://github.com/KiRura/MuTao)_  
+  ~~音楽再生, 全メンバーにロール一括付与, etc...~~  
+  リニューアル中です
 - _[Timeout-Manager](https://github.com/KiRura/Timeout-Manager)_  
   タイムアウトされたメンバーが退出した時に BAN, etc...
 - _[Message-Counter](https://github.com/KiRura/Message-Counter)_  
@@ -31,8 +34,6 @@
 
 ### 停止中
 
-- _[MuTao](https://github.com/KiRura/MuTao)_  
-  音楽再生, 全メンバーにロール一括付与, etc...
 - _[MuPlayer](https://github.com/KiRura/MuPlayer)_  
   MuTao の音楽再生から分離
 
