@@ -2,8 +2,6 @@
 
 ## ABOUT
 
-<img src="./media/sparkle_chocolate.png" width="300" align="right" />
-
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" alt="Japan" style="width:1em;margin:0 0.05em 0 0.1em;vertical-align:-0.1em;" /> Student from Japan
 - <img src="https://avatars.githubusercontent.com/u/26492485" alt="Discord.js" style="width:1em;margin:0 0.05em 0 0.1em;vertical-align:-0.1em;" /> Discord.js / <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg50Y1hU63KBvz1NeFULfXwfhoMlJsMMJwO3JpKySANX2GPLpHHgaFc17foVSxKSwN7dhq_RugqkkrU73DQ0G4MEyepkE0fT86AwFEmiiaW39AMAfsMtsPbEPmedX4aqcIkAh-N6ivxuY4/s1600/jetpack+compose+icon_RGB.png" alt="Jetpack Compose" style="height:1em;margin:0 0.05em 0 0.1em;vertical-align:-0.1em;" /> Jetpack Compose
 - <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f52b.svg" alt="gun" style="width:1em;margin:0 0.05em 0 0.1em;vertical-align:-0.1em;" /> FPS ゲーム中心  
@@ -26,8 +24,6 @@
   UTC+9 日本時間 0 時にメッセージのカウント数を定期送信
 
 ### 開発中 or 放置中
-
-<img src="./media/sparkle_banner.png" width=300 align="right" />
 
 - _[Anka](https://github.com/KiRura/Anka)_  
   安価
