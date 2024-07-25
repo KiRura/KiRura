@@ -27,9 +27,6 @@
 
 - _[Anka](https://github.com/KiRura/Anka)_  
   安価
-
-### 停止中
-
 - _[MuPlayer](https://github.com/KiRura/MuPlayer)_  
   MuTao の音楽再生から分離
 
