@@ -1,7 +1,9 @@
 # きるら / KiRura / 7KiRura
-## 開発中のサイト
+## Discord BOT
+### TypeScript
+- [Voice Notifier](https://github.com/KiRura/voice-notifier)
+## Websites
 ### Next.js
 - [KiRura](https://github.com/KiRura/website-nextjs)
-- [ksg-website](https://github.com/KiRura/ksg-website)
 ### Remix
 - [KiRura-Website-Remix](https://github.com/KiRura/website-remix)
