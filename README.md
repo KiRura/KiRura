@@ -9,6 +9,7 @@
 ### Next.js
 
 - [KiRura](https://github.com/KiRura/website-nextjs)
+- [Blog](https://github.com/KiRura/blog-nextjs)
 
 ### Remix
 
