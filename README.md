@@ -11,10 +11,6 @@
 - [KiRura](https://github.com/KiRura/website-nextjs)
 - [Blog](https://github.com/KiRura/blog-nextjs)
 
-### Remix
-
-- [KiRura-Website-Remix](https://github.com/KiRura/website-remix)
-
 ## Apps
 
 ### Flutter
