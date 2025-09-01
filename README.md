@@ -13,7 +13,12 @@
 
 ## Apps
 
-### Flutter
+### JetpackCompose
 
 - [MCord](https://github.com/KiRura/MCord)
+  - WIP
+
+### Flutter
+
+- [MCord](https://github.com/KiRura/MCord-AI-Generated-Sucks)
   - 99.9%はAI生成
