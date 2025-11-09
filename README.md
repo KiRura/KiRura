@@ -1,19 +1,19 @@
-# きるら / KiRura / 7KiRura
+# きるら / (7)KiRura
 
 ## Discord BOT
 
+- [MuTao](https://github.com/KiRura/MuTao)
 - [Voice Notifier](https://github.com/KiRura/voice-notifier)
 
-## Websites
+## Web
 
 ### Next.js
 
 - [KiRura](https://github.com/KiRura/website-nextjs)
-- [Blog](https://github.com/KiRura/blog-nextjs)
 
 ## Apps
 
-### JetpackCompose
+### Jetpack Compose / Miuix
 
 - [MCord](https://github.com/KiRura/MCord)
   - WIP
