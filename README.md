@@ -18,3 +18,4 @@
 ### Next.js
 
 - [KiRura](https://github.com/KiRura/website-nextjs)
+  - [Pixel-Art](https://www.kirura.f5.si/pixel-art)
