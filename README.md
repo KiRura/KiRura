@@ -7,18 +7,14 @@
 
 ## Web
 
+### Svelte
+
+- [KiRura](https://github.com/KiRura/website-svelte)
+
+### React Router
+
+- [KiRura](https://github.com/KiRura/website-react-router)
+
 ### Next.js
 
 - [KiRura](https://github.com/KiRura/website-nextjs)
-
-## Apps
-
-### Jetpack Compose / Miuix
-
-- [MCord](https://github.com/KiRura/MCord)
-  - WIP
-
-### Flutter
-
-- [MCord](https://github.com/KiRura/MCord-AI-Generated-Sucks)
-  - 99.9%はAI生成
