@@ -1,6 +1,6 @@
 # (7)KiRura
 
-My GitHub repos is outdated. Latests in [Codeberg](https://codeberg.org/KiRura).
+My GitHub repos are outdated. Latests in [Codeberg](https://codeberg.org/KiRura).
 
 ## Discord BOT
 
